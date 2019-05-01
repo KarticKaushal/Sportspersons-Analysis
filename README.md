@@ -1,4 +1,4 @@
-# Sportspersons-Analysis
+# Sportspersons'-Analysis
 Scraped data from www.healthycelebs.com for 100 Males &amp; Females Sports persons and further did some basic data analysis of athletes.
 
 
